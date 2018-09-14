@@ -1,0 +1,2 @@
+1. run download command
+2. run key generator command: php artisan key:generate
